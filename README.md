@@ -9,3 +9,4 @@ Añado una lista
 * bullet 1
 * bullet 2
 * bullet 3
+**linus Torvalds**
