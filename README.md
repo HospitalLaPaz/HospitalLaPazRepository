@@ -1,6 +1,9 @@
 # Encabezado
 ## Parrafo principal
+### Subparrafo 
 Texto
+* elemento1
+* elemento2
 ### Subparrafo 1
 texto2
 ### Subparrafo 2
